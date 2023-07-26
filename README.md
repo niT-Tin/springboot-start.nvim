@@ -117,54 +117,71 @@ For more information, please refer to the [nui.nvim](https://github.com/MunifTan
 Please use `:SpringBootStartMenu` for the first startup, which will create some basic data cache files.
 
 - `:SpringBootStartMenu`
+  
     Summary display of the plugin's functions.
 
 - `:SpringBootGetDep`
+  
     Select the dependencies that need to be added when creating a springboot project.
 
 - `:SpringBootGetProjectType`
+  
     Choose the type of project to create when creating a springboot project.
 
 - `:SpringBootGetParam`
+  
     Modify or select the configuration information of the spring boot project when creating it.(Use default information if not modified)
 
 - `:SpringBootChoseDir`
+  
     Enter the location where the project is stored.
 
 - `:SpringBootShowDep`
+  
     Display the selected dependency items.                        
 
 - `:SpringBootShowProjectType`
+  
     Display the selected project types.
 
 - `:SpringBootShowParam`
+  
     Display Project Configuration.
 
 - `:SpringBootShowSelected`
+  
     Display all project options (type, configuration, creation location, dependencies).
 
 - `:SpringBootCreate`
+  
     Create project(also creating the cache file).
     
 - `:SpringBootRemoveCache`
+  
     Remove all cache files.
 
 - `:SpringBootUpdateCache`
+  
     Update all cache files with current selections. 
     
 - `:SpringBootShowLast`
+  
     Display all options and configurations for the previous project creation.
 
 - `:SpringBootCreateLast`
+  
     Create a project based on the previous configuration and options.
 
 - `:SpringBootGetLast`
+  
     Obtain the previous configuration and options for easy modification and re creation of the project.
 
 - `:SpringBootDeleteDep`
+  
     Display the currently selected dependencies and provide deletion function.
 
 - `:SpringBootCacheDir`
+  
     Display cache files location
 
 ### API
