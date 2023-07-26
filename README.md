@@ -2,6 +2,12 @@
 
 Neovim plugin for initializing spring boot projects.
 
+
+
+https://github.com/niT-Tin/springboot-start.nvim/assets/73155828/d0dcabc2-55ed-473b-8b85-82c9b14f5c73
+
+> Note: After creating a project in the video, starting the jdtls and performing automatic completion operations is not what this plugin does. This plugin only creates a project. If you want to perform related completion operations, you can check the relevant documentation of [jdtls](https://github.com/mfussenegger/nvim-jdtls)
+
 ## Getting started
 
 Although the environment for writing Java code in Intellij idea is already quite comprehensive, I prefer to do most of the work within the terminal or Neovim. After configuring jdtls, it was discovered that initializing the SpringBoot project may also occur in neovim, so this plugin was written. Because I am not a professional Java programmer, I have currently implemented a small portion of the functionality. More features may be listed in my TODO schedule.
