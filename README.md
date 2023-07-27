@@ -4,7 +4,8 @@ Neovim plugin for initializing spring boot projects.
 
 
 
-https://github.com/niT-Tin/springboot-start.nvim/assets/73155828/d0dcabc2-55ed-473b-8b85-82c9b14f5c73
+![springboot-start-dashboard](https://github.com/niT-Tin/springboot-start.nvim/assets/73155828/09897e5a-595b-4d6c-aae8-203dff5f5128)
+
 
 > Note: After creating a project in the video, starting the jdtls and performing automatic completion operations is not what this plugin does. This plugin only creates a project. If you want to perform related completion operations, you can check the relevant documentation of [jdtls](https://github.com/mfussenegger/nvim-jdtls)
 
